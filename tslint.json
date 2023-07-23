@@ -2,6 +2,7 @@
   "extends": "tslint:recommended",
   "rules": {
     "align": {
+      
       "options": [
         "parameters",
         "statements"
